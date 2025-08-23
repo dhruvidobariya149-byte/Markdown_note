@@ -1,2 +1,28 @@
 # Markdown_note
-It is a MerkDown Note
+It is a MerkDown Note(Java-Notes)
+
+## 📌 Introduction
+Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle).  
+It is platform-independent (Write Once, Run Anywhere).
+
+---
+
+## 🔹 Features of Java
+- Simple and easy to learn
+- Object-Oriented
+- Platform Independent
+- Robust and Secure
+- Multithreaded
+- High Performance
+
+---
+
+## 🔹 Basic Syntax
+```java
+public class HelloWorld
+ {
+    public static void main(String[] args)
+   {
+        System.out.println("Hello, Java!");
+   }
+ }
